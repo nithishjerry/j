@@ -1,0 +1,25 @@
+<!--
+
+Welcome to GDB Online.
+GDB online is an online compiler and debugger tool for C, C++, Python, Java, PHP, Ruby, Perl,
+C#, OCaml, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS, JS, SQLite, Prolog.
+Code, Compile, Run and Debug online from anywhere in world.
+
+-->
+
+<html>
+    <head>
+<style>
+body{
+    background-color:yellow;
+}
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+</style>
+</head>
+<body>
+<h1 style="color:red">Wish by Jerry</h1>
+<div><a href="https://www.shutterstock.com/shutterstock/photos/2032044020/display_1500/stock-photo-happy-birthday-wishes-and-greetings-to-friends-relatives-lovers-mother-father-daughter-son-2032044020.jpg">click me&#128525</a></div>
+</body>
+</html>
